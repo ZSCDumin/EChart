@@ -30,7 +30,7 @@ public class EChartDemoController {
 
 		// 数据
 		util.addLine("线段1", createData(DATA_COUNT));
-		//util.addLine("线段2", createData(DATA_COUNT));
+		util.addLine("线段2", createData(DATA_COUNT));
 
 		return util.getData();
 	}
