@@ -1,2 +1,2 @@
 # EChart
-![image] (https://github.com/ZSCDumin/EChart/screenshoot/1.png)
+![image](https://github.com/ZSCDumin/EChart/screenshoot/1.png)
